@@ -1,3 +1,18 @@
 git init.: Cria um repo git na pasta atual
 git status: mostra o status do trabalho
 git log
+
+FLUXO: 
+1 Criar diretório (pasta) do projeto 
+2 Iniciar git dentro do diretório criado (git init .) 
+3 edita ou cria arquivos 
+
+4 git status 
+
+5 git add <nome arquivo> 
+6 git status 
+
+7 git commit –m "mensagem" 
+8 git status  
+
+9 volta para  o passo 3
