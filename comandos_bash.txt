@@ -1,0 +1,8 @@
+Comando GIT 
+
+LS: Lista arquivos do diretório que estou 
+LS –a: Lista os arquivos ocultos:  Arquivos  ocultos são os arquivos mães da pasta 
+CD: Serve para selecionar o diretório que quero ir 
+PWD: para mostrar qual diretório estou  
+
+MKDIR: Cria uma pasta nova  
