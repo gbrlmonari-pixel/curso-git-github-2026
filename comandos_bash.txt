@@ -8,3 +8,4 @@ PWD: para mostrar qual diretório estou
 MKDIR: Cria uma pasta nova 
 CAT: exibe conteudi do arquivo 
 RM: Remove
+fodase
