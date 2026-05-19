@@ -1,6 +1,6 @@
-git init.: Cria um repo git na pasta atual
-git status: mostra o status do trabalho
-git log
+git init.: 		Cria um repo git na pasta atual
+git status: 		Mostra o status do trabalho
+Git log
 
 FLUXO: 
 1 Criar diretório (pasta) do projeto 
