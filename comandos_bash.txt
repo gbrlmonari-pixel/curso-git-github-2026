@@ -5,4 +5,5 @@ LS –a: Lista os arquivos ocultos:  Arquivos  ocultos são os arquivos mães da
 CD: Serve para selecionar o diretório que quero ir 
 PWD: para mostrar qual diretório estou  
 
-MKDIR: Cria uma pasta nova  
+MKDIR: Cria uma pasta nova 
+CAT: exibe conteudi do arquivo 
